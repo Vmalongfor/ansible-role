@@ -1,8 +1,8 @@
 ---
 galaxy_info:
-  author: "Rich Nason"
+  author: "veroline"
   description: "Role to install Nginx"
-  company: "Appcontainers"
+  company: "DSG"
   license: "license (MIT, BSD)"
   min_ansible_version: 2.0
   platforms:

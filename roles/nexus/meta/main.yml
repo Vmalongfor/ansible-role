@@ -1,8 +1,8 @@
 ---
 galaxy_info:
-  author: ansible-ThoTeam
+  author: veroline
   description: Nexus Repository Manager 3.x (Sonatype)
-  company: ThoTeam
+  company: DSG
 
   license: license (GPLv3)
 
